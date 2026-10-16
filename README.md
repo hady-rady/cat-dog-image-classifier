@@ -13,6 +13,7 @@ A deep learning project that classifies images into two categories: cats and dog
 
 ## Model Performance
 The model achieved **76% test accuracy** on the evaluation dataset.
+![Cat and Dog Classifier Results](cat_dog_results.png)
 
 ## Project Workflow
 1. Load and prepare the image dataset.
